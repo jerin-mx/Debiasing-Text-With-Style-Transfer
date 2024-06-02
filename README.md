@@ -82,3 +82,7 @@ Pre-trained Language Models](https://arxiv.org/pdf/2110.08527.pdf)
 3. [Evaluating Style Transfer for Text](https://arxiv.org/pdf/1904.02295.pdf)
 
 ***
+
+## Project Presentation
+
+You can view the project presentation [here](https://github.com/jerin-mx/Debiasing-Text-With-Style-Transfer/blob/main/docs/Presentation%20-%20Debiasing%20Text%20with%20Style%20Transfer.pdf).
